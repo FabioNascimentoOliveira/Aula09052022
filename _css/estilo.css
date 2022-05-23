@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+#container{
+    margin: 0 auto;
+    width: 1050px;
+    height: 616px;
+}
+#banner{
+    width: 850px;
+    height: 178px;
+    margin: 0 auto;
+    background: #000;
+    color: rgb(20, 20, 20);
+    }
+#link{
+    width: 150px;
+    height: 800px;
+    background: aqua;
+    margin-left: 102px ;
+    }
+#texto{
+    width: 700px;
+    height: 800px;
+    margin-top: -800px;
+    margin-left: 250px; 
+    background: rgb(223, 221, 221);
+}
+#footer{
+    width: 80.2%;
+    height: 25px;
+    margin: 0 auto ;
+    text-align: center;
+    border: solid;
+    color:black;
+}
+#img1{
+    width: 843px;
+    height: 155px;
+    border: solid;  
+}
+ul li{
+    list-style: none;
+    text-align: center;
+}
